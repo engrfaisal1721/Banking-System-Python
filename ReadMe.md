@@ -22,7 +22,7 @@ Represents a single bank account.
 account = BankAccount(101, "Faisal Rehman")
 account.Deposite(500)
 account.Withdraw(200)
-account.GetBalance()
+account.GetBalance()```
 
 
 ## 2. Bank
@@ -41,4 +41,4 @@ bank = Bank()
 bank.Create_Account(101, "Faisal Rehman")
 bank.deposite(101, 1000)
 bank.withdraw(101, 300)
-bank.get_balance(101)
+bank.get_balance(101)```
